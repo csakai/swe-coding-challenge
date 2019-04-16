@@ -13,7 +13,7 @@ Run test in watch mode:
 
 ## Feature
 
-As an user with multiple OT-2 robots, I would like to view the name and information about all of the available robots in my lab.
+As a user with multiple OT-2 robots, I would like to view the name and information about all of the available robots in my lab.
 
 ## Acceptance criteria
 
