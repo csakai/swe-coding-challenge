@@ -1,6 +1,7 @@
 import {combineReducers} from 'redux'
 
-const robotReducer = () => {
+const robotReducer = (state, action) => {
+	// NOTE: this reducer is hardcoded to always return this list of robots
   return [
     {
       name: 'opentrons-sunset',
@@ -40,4 +41,5 @@ const robotReducer = () => {
 
 export default combineReducers({
   robots: robotReducer,
+	selectedRobot: null, // TODO: combine your selectedRobot reducer here
 })
