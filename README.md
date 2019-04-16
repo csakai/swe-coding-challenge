@@ -3,13 +3,19 @@
 This starter app was created with [Create React App](https://github.com/facebook/create-react-app).
 
 Install dependencies:
-```yarn```
+```
+yarn
+```
 
 Run the app in the development mode on `http://localhost:3000`:
-```yarn start```
+```
+yarn start
+```
 
 Run test in watch mode:
-```yarn test```
+```
+yarn test
+```
 
 ## Feature
 
