@@ -1,6 +1,6 @@
 import {combineReducers} from 'redux'
 
-const robotReducer = (state, action) => {
+export const robotReducer = (state, action) => {
 	// NOTE: this reducer is hardcoded to always return this list of robots
   return [
     {
